@@ -1,0 +1,1 @@
+an animation created using matplotlib in python3. number of animated points can be increased for a better resolution. animating for longer time frames causes memory error. could be done by making multiple animations for short time frames and then stiching them in the end.
