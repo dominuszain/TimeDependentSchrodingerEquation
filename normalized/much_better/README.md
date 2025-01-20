@@ -1,1 +1,1 @@
-
+I was previously using a gaussian wave function inside a quadratic potential. Upon changing the potential to a gaussian as well (inverted ofcourse), the blowing was MASSIVELY delayed. It still occured but after a long long time. Despite keeping in mind the stability conditions for the finite-difference method, it cannot be effectively used to solve the TDSE. In the future, I will try to solve the same equation using the crank-nicolson scheme, see if the wave function still blows up.
