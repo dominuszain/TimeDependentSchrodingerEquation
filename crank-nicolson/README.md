@@ -39,4 +39,4 @@ The simulation opens an interactive window with buttons to switch between preset
 ---
 
 *Code of Zain Ul Abideen*  
-*Upgraded with Claude Code + Qwen3.5*
+*Code by Zain Ul Abideen.*

@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "Time-dependent Schrödinger equation: finite-difference and Crank-Nicolson solutions"
+abstract: "Numerical solutions of the 1D time-dependent Schrödinger equation for a Gaussian wave packet in several potentials, using explicit finite differences in Scilab and Crank-Nicolson in Python."
+authors:
+  - family-names: Ul Abideen
+    given-names: Zain
+    email: zain2@uni-bremen.de
+    affiliation: University of Bremen
+version: "1.0.0"
+date-released: "2026-10-26"
+license: MIT
+url: "https://github.com/dominuszain/TimeDependentSchrodingerEquation"
+repository-code: "https://github.com/dominuszain/TimeDependentSchrodingerEquation"
+keywords:
+  - quantum mechanics
+  - schrodinger equation
+  - numerical methods
+  - crank-nicolson
+  - finite difference
+  - wave packet
+  - python
+  - scilab
+EOF

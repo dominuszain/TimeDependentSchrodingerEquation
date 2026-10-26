@@ -266,4 +266,4 @@ anim.save('output.mp4', writer=writer)
 ---
 
 *Code of Zain Ul Abideen*  
-*Upgraded with Claude Code + Qwen3.5*
+*Code by Zain Ul Abideen.*

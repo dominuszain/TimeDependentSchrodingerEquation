@@ -407,7 +407,7 @@ class InteractiveSimulation:
         self.ax.set_ylim(0, max(0.3, np.max(result.probability_density) * 1.5))
         self.ax.set_xlabel("x")
         self.ax.set_ylabel("|ψ|²")
-        self.ax.set_title(f"Code of Zain Ul Abideen\nUpgraded with Claude Code + Qwen3.5\n\n{preset_name}")
+        self.ax.set_title(f"Code of Zain Ul Abideen\n\n{preset_name}")
         self.ax.grid(True, alpha=0.3)
 
         # Plot potential (scaled to fit)
